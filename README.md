@@ -1,1 +1,1 @@
-# Assignment-2-Final
+# Assignment 2 - Student Information System
